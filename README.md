@@ -8,12 +8,12 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - Create patterns that concentrate on ways your images & icons are displayed: **Some examples of patterns you might make:**
-  - Cards: image card, icon card, basic card, dog info card, etc.
+  - Cards: image card, icon card, basic card, product info card, etc.
   - Banners: top of page banners, call to action banners, sectional banners with large graphics
   - Buttons with icons: update your button patterns to include icons
-  - Photo arrays: how will you arrange the different photos for each dog?
+  - Photo arrays: how will you arrange the different photos for each product?
 - *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
