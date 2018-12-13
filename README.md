@@ -14,7 +14,6 @@ deliverables: 'Pattern library'
   - Banners: top of page banners, call to action banners, sectional banners with large graphics
   - Buttons with icons: update your button patterns to include icons
   - Photo arrays: how will you arrange the different photos for each product?
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
